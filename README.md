@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raniya Poonthala</h1>
-<h3 align="center">I’m a second-year Software Product Engineering student focusing on Full Stack Development and DevOps, with experience in the MERN stack and projects like an e-auctioning website, Loxera. Lately, I’ve been diving deeper into Artificial Intelligence while expanding my skills in Next.js and TypeScript.</h3>
+<h3 align="center">I’m a second-year Software Product Engineering student focusing on Full Stack Development and DevOps, with experience in the MERN stack and projects like an e-auctioning website, Loxera.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raniyaptla&label=Profile%20views&color=0e75b6&style=flat" alt="raniyapptla" /> </p>
 
